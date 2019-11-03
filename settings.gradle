@@ -1,0 +1,2 @@
+include ':status-bar'
+rootProject.name = 'fast-statusbar'
